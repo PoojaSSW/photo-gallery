@@ -1,9 +1,7 @@
 My Photo Gallery
 
 Hello Team,
-I have designed a photo gallery that is swipable and clickable.On click opens the image in a different tab.
-
-## Starting point
+A photo gallery that is swipable and clickable.On click opens the image in a different tab.
 
 ### Component
 
@@ -12,4 +10,9 @@ I have designed a photo gallery that is swipable and clickable.On click opens th
 ### Styles
 
 * image-gallery.css
+
+### Getting started
+* git clone https://github.com/piyaa/photo-gallery.git
+* npm install
+* http://localhost:8001/
 
