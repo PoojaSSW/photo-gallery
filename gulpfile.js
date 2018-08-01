@@ -11,12 +11,10 @@ var cleanCSS = require('gulp-clean-css');
 var source = require('vinyl-source-stream');
 var buffer = require('vinyl-buffer');
 var watchify = require('watchify');
-
 var babelOptions = {
   plugins: ['transform-object-assign'],
   presets: ['es2015', 'react', 'stage-0']
 };
-
 gulp.task('server', function () {
   connect.server({
     host: '0.0.0.0',
