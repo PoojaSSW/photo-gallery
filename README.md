@@ -1,6 +1,4 @@
 My Photo Gallery
-
-Hello Team,
 A photo gallery that is swipable and clickable.On click opens the image in a different tab.
 
 ### Component
